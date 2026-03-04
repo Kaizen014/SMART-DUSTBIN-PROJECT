@@ -84,6 +84,7 @@ The system consists of three functional modules:
 
 Main Arduino file:
 
+```cpp
 #include <Servo.h>
 
 Servo myservo;  
@@ -174,7 +175,7 @@ void loop()
 
   delay(200);
 }
-
+```
 ---
 The program:
 - Reads bin level from analog input
