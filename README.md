@@ -188,8 +188,11 @@ The program:
 
 ## 🖼️ Project Media
 
-### 🔹 Circuit Design
+### 🔹 Circuit Design (In Proteus)
 ![Circuit Diagram](Analog-circuit.png)
+
+(In TinkerCAD)
+![Circuit Diagram](TinkerCAD-design.png)
 
 ---
 ### 🔹 Hardware Prototype
