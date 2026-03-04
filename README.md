@@ -85,7 +85,8 @@ The system consists of three functional modules:
 Main Arduino file:
 
 ```
-Smart_Waste_Monitoring_System.ino
+smartdustbin.ino
+
 ```
 
 The program:
