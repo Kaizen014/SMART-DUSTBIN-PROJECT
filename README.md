@@ -196,7 +196,6 @@ The program:
 
 ---
 ### 🔹 Hardware Prototype
-(Add real project image here)
 
 ```
 /images/hardware-setup.jpg
