@@ -189,12 +189,9 @@ The program:
 ## 🖼️ Project Media
 
 ### 🔹 Circuit Design
-![Circuit Diagram](analogcircuit.png)
+![Circuit Diagram](Analog-circuit.png)
 
-```
-/images/circuit-design.png
-```
-
+---
 ### 🔹 Hardware Prototype
 (Add real project image here)
 
