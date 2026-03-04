@@ -136,7 +136,7 @@ void loop()
     digitalWrite(blueLED, LOW);
     myservo.write(3); 
     
-    digitalWrite(buzzerPin, HIGH);
+  digitalWrite(buzzerPin, HIGH);
     delay(500);
     digitalWrite(buzzerPin, LOW);
     delay(500);
@@ -174,8 +174,8 @@ void loop()
 
   delay(200);
 }
-```
 
+---
 The program:
 - Reads bin level from analog input
 - Compares against threshold value
@@ -238,4 +238,4 @@ This project was developed as part of a Robotics course in the Mechatronics Engi
 ## 📜 License
 
 This project is developed for academic purposes.  
-Open for modification and educational use with proper credit.
+Open for modification and educational use with proper
