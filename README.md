@@ -189,7 +189,7 @@ The program:
 ## 🖼️ Project Media
 
 ### 🔹 Circuit Design
-(Add your Proteus/Tinkercad screenshot here)
+![Circuit Diagram](analogcircuit.png)
 
 ```
 /images/circuit-design.png
